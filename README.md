@@ -6,7 +6,7 @@
   - [Textbook reading and annotations](https://qtalr.github.io/book)
   - [Recipes #8, #9, and #10 reading and annotations](https://qtalr.github.io/qtalrkit/articles/)
   - Labs #8, #9, and #10
-  - Project step #4: Analysis method(s)
+  - [Project step #4: Analysis method(s)](https://github.com/lin-380-s24/project_step_4)
 
 ## Objectives
 
