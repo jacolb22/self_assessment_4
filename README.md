@@ -19,7 +19,7 @@
 
 1. Create a new RStudio project for this assignment. Title it "self_assessment_4".
 2. Create a new Quarto document. Title it "Self-assessment #4" and provide add your name as the author.
-3. Delete all the material below the front matter
+3. Delete all the material below the front matter.
 
 ### Respond
 
@@ -42,4 +42,4 @@ Format your response using Markdown syntax as needed.
 
 1. Render your Quarto document
 2. Push your repository to GitHub
-3. [ ] TBD
+3. Submit the URL or PDF of your rendered document to the corresponding assignment on Canvas.
