@@ -7,5 +7,5 @@ editor: source
 
 I have learned how to describe a dataset more certainly than in previous labs, and also to think about how malleable data is- it exists to serve the needs of the one who has it. There is much information to be gleaned within it, but it takes a little bit of tickling out. Defining how I actually want to do this before I just jump in an play around with the data is challenging for me, but I'm glad I have learned how to do it. I have also learned how to think about predictive, exploratory, and inferential analysis in different ways, and which models can be more useful for different use cases. Although this was the most difficult part, learning about all the different models, how they work, how to interpret their results, and when to use them. It will eventually pay off though, I'm sure. On top of this, statistical concepts that I haven't touched in ages, such as p-values are still a bit rusty to me, but its use and its downsides are clear, between the labs, the recipes and the presentations, I have a fairly good understanding of all of the above. I would like to know edge cases about when to use certain models when, to more concretely understand that concept.
 
---test--
+
 
